@@ -1,4 +1,4 @@
-# Hero IntelliInspect
+# Hero Intellispect
 
 **AI-Powered Vehicle Damage Detection & Intelligent Assessment** - built with **Streamlit** + **Ultralytics YOLO**.
 
