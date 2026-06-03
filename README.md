@@ -1,6 +1,6 @@
 # Hero IntelliInspect
 
-**AI-Powered Vehicle Damage Detection & Intelligent Assessment** — built with **Streamlit** + **Ultralytics YOLO**.
+**AI-Powered Vehicle Damage Detection & Intelligent Assessment** - built with **Streamlit** + **Ultralytics YOLO**.
 
 Upload a vehicle image to detect damages, estimate severity, and generate an instant (AI-generated) repair cost breakdown.
 
